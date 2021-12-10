@@ -1,15 +1,15 @@
 {
 	"FilesToDownload": [
 		{
-			"Label": "1 - hem no mercy 1",
+			"Label": "1 - HEM No Mercy 2.1",
 			"Url": "https://www.gamemaps.com/mirrors/download/7890/6"
 		},
 		{
-			"Label": "2 - hem no mercy 2",
+			"Label": "2 - HEM No Mercy 2.3",
 			"Url": "https://www.gamemaps.com/mirrors/download/7989/6"
 		},
 		{
-			"Label": "3 - hem death toll",
+			"Label": "3 - HEM Death Toll 2.2",
 			"Url": "https://www.gamemaps.com/mirrors/download/7969/6"
 		},
 		{
@@ -21,171 +21,83 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/7986/6"
 		},
 		{
-			"Label": "6 - resident",
-			"Url": "https://www.gamemaps.com/mirrors/download/2329/6"
-		},
-		{
-			"Label": "7 - redemption",
-			"Url": "https://www.gamemaps.com/mirrors/download/2718/6"
-		},
-		{
-			"Label": "8 - no mercy apocalypse",
-			"Url": "https://www.gamemaps.com/mirrors/download/15620/6"
-		},
-		{
-			"Label": "9 - nigth terror",
-			"Url": "https://www.gamemaps.com/mirrors/download/2198/6"
-		},
-		{
-			"Label": "10 - i hate montains",
-			"Url": "https://www.gamemaps.com/mirrors/download/2595/6"
-		},
-		{
-			"Label": "11 - yama",
-			"Url": "https://www.gamemaps.com/mirrors/download/25016/6"
-		},
-		{
-			"Label": "12 - city 17",
-			"Url": "https://www.gamemaps.com/mirrors/download/2406/6"
-		},
-		{
-			"Label": "13 - death aboard",
-			"Url": "https://www.gamemaps.com/mirrors/download/2114/6"
-		},
-		{
-			"Label": "14 - crash course apocalypse",
-			"Url": "https://www.gamemaps.com/mirrors/download/8125/6"
-		},
-		{
-			"Label": "15 - cold fear",
-			"Url": "https://www.gamemaps.com/mirrors/download/2203/6"
-		},
-		{
-			"Label": "16 - fallen",
-			"Url": "https://www.gamemaps.com/mirrors/download/2511/6"
-		},
-		{
-			"Label": "17 - city of the dead",
-			"Url": "https://www.gamemaps.com/mirrors/download/17622/6"
-		},
-		{
-			"Label": "18 - precinct 84",
-			"Url": "https://www.gamemaps.com/mirrors/download/2679/6"
-		},
-		{
-			"Label": "19 - death tool apocalypse",
-			"Url": "https://www.gamemaps.com/mirrors/download/12008/6"
-		},
-		{
-			"Label": "20 - road to nowhere",
-			"Url": "https://www.gamemaps.com/mirrors/download/19543/6"
-		},
-		{
-			"Label": "21 - dark blood",
-			"Url": "https://www.gamemaps.com/mirrors/download/2298/6"
-		},
-		{
-			"Label": "22 - We Don't Go To Ravenholm",
-			"Url": "https://www.gamemaps.com/mirrors/download/2341/6"
-		},
-		{
-			"Label": "23 - Blood Harvest Apocalypse",
-			"Url": "https://www.gamemaps.com/mirrors/download/4375/6"
-		},
-		{
-			"Label": "24 - Dead Echo",
-			"Url": "https://www.gamemaps.com/mirrors/download/2323/6"
-		},
-		{
-			"Label": "25 - Dead Vacation",
-			"Url": "https://www.gamemaps.com/mirrors/download/4075/6"
-		},
-		{
-			"Label": "26 - Derailed",
-			"Url": "https://www.gamemaps.com/mirrors/download/2609/6"
-		},
-		{
-			"Label": "27 - Dead Before Dawn",
-			"Url": "https://www.gamemaps.com/mirrors/download/2661/6"
-		},
-		{
-			"Label": "28 - 7 Hours Later",
-			"Url": "https://www.gamemaps.com/mirrors/download/2236/6"
-		},
-		{
-			"Label": "29 - DeadCity",
-			"Url": "https://www.gamemaps.com/mirrors/download/2127/6"
-		},
-		{
-			"Label": "30 - DeathCraft",
-			"Url": "https://www.gamemaps.com/mirrors/download/3786/6"
-		},
-		{
-			"Label": "31 - Suicide Blitz",
-			"Url": "https://www.gamemaps.com/mirrors/download/2334/6"
-		},
-		{
-			"Label": "32 - Heaven can wait",
-			"Url": "https://www.gamemaps.com/mirrors/download/2133/6"
-		},
-		{
-			"Label": "33 - Trap Map",
-			"Url": "https://www.gamemaps.com/mirrors/download/2617/6"
-		},
-		{
-			"Label": "34 - One 4 Nine",
-			"Url": "https://www.gamemaps.com/mirrors/download/2260/6"
-		},
-		{
-			"Label": "35 - Vienna Calling",
-			"Url": "https://www.gamemaps.com/mirrors/download/2314/6"
-		},
-		{
-			"Label": "36 - Crash Course HEMGA",
+			"Label": "6 - HEMGA Crash Course",
 			"Url": "https://www.gamemaps.com/mirrors/download/26094/6"
 		},
 		{
-			"Label": "37 - Powerstation",
-			"Url": "https://www.gamemaps.com/mirrors/download/2620/6"
+			"Label": "7 - Crash Course Apocalypse",
+			"Url": "https://www.gamemaps.com/mirrors/download/8125/6"
 		},
 		{
-			"Label": "38 - Dam It",
-			"Url": "https://www.gamemaps.com/mirrors/download/21406/6"
+			"Label": "8 - Death Toll Apocalypse",
+			"Url": "https://www.gamemaps.com/mirrors/download/12008/6"
 		},
 		{
-			"Label": "39 - Fairfield Terror",
-			"Url": "https://www.gamemaps.com/mirrors/download/18818/6"
+			"Label": "9 - Blood Harvest Apocalypse",
+			"Url": "https://www.gamemaps.com/mirrors/download/4375/6"
 		},
 		{
-			"Label": "40 - Ilogic City of the dead",
-			"Url": "https://www.gamemaps.com/mirrors/download/2257/6"
+			"Label": "10 - Blood Woods Apocalypse",
+			"Url": "https://www.gamemaps.com/mirrors/download/9314/6"
 		},
 		{
-			"Label": "41 - Stargate SG-4",
-			"Url": "https://www.gamemaps.com/mirrors/download/3944/6"
+			"Label": "11 - City 17 v 2.7",
+			"Url": "https://www.gamemaps.com/mirrors/download/21065/6"
 		},
 		{
-			"Label": "42 - Project Auburn",
+			"Label": "12 - Redemption",
+			"Url": "https://www.gamemaps.com/mirrors/download/2718/6"
+		},
+		{
+			"Label": "13 - Dead Before Dawn",
+			"Url": "https://www.gamemaps.com/mirrors/download/2661/6"
+		},
+		{
+			"Label": "14 - Dead Vacation",
+			"Url": "https://www.gamemaps.com/mirrors/download/4075/6"
+		},
+		{
+			"Label": "15 - YAMA",
+			"Url": "https://www.gamemaps.com/mirrors/download/25016/6"
+		},
+		{
+			"Label": "16 - Project Auburn",
 			"Url": "https://www.gamemaps.com/mirrors/download/4104/6"
 		},
 		{
-			"Label": "43 - Dead Street",
+			"Label": "17 - Dead Street",
 			"Url": "https://www.gamemaps.com/mirrors/download/19393/6"
 		},
 		{
-			"Label": "44 - Carnage",
+			"Label": "18 - Carnage",
 			"Url": "https://www.gamemaps.com/mirrors/download/2339/6"
 		},
 		{
-			"Label": "45 - Crash Bandicoot Course",
-			"Url": "https://www.gamemaps.com/mirrors/download/2374/6"
+			"Label": "19 - Fallen",
+			"Url": "https://www.gamemaps.com/mirrors/download/2511/6"
 		},
 		{
-			"Label": "46 - Escape from Toronto",
+			"Label": "20 - Escape from Toronto",
 			"Url": "https://www.gamemaps.com/mirrors/download/2278/6"
 		},
 		{
-			"Label": "47 - New World Order",
+			"Label": "21 - The Arena of the Dead",
+			"Url": "https://www.gamemaps.com/mirrors/download/2214/6"
+		},
+		{
+			"Label": "22 - Blood Orange",
+			"Url": "https://www.gamemaps.com/mirrors/download/2126/6"
+		},
+		{
+			"Label": "23 - Death Row",
+			"Url": "https://www.gamemaps.com/mirrors/download/2227/6"
+		},
+		{
+			"Label": "24 - Fort Noesis",
+			"Url": "https://www.gamemaps.com/mirrors/download/2450/6"
+		},
+		{
+			"Label": "25 - New World Order",
 			"Url": "https://www.gamemaps.com/mirrors/download/2242/6"
 		}
 	]
