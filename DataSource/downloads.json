@@ -61,44 +61,44 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/25016/6"
 		},
 		{
-			"Label": "16 - Project Auburn",
-			"Url": "https://www.gamemaps.com/mirrors/download/4104/6"
-		},
-		{
-			"Label": "17 - Dead Street",
+			"Label": "16 - Dead Street",
 			"Url": "https://www.gamemaps.com/mirrors/download/19393/6"
 		},
 		{
-			"Label": "18 - Carnage",
+			"Label": "17 - Carnage",
 			"Url": "https://www.gamemaps.com/mirrors/download/2339/6"
 		},
 		{
-			"Label": "19 - Fallen",
+			"Label": "18 - Fallen",
 			"Url": "https://www.gamemaps.com/mirrors/download/2511/6"
 		},
 		{
-			"Label": "20 - Escape from Toronto",
+			"Label": "19 - Escape from Toronto",
 			"Url": "https://www.gamemaps.com/mirrors/download/2278/6"
 		},
 		{
-			"Label": "21 - The Arena of the Dead",
+			"Label": "20 - The Arena of the Dead",
 			"Url": "https://www.gamemaps.com/mirrors/download/2214/6"
 		},
 		{
-			"Label": "22 - Blood Orange",
+			"Label": "21 - Blood Orange",
 			"Url": "https://www.gamemaps.com/mirrors/download/2126/6"
 		},
 		{
-			"Label": "23 - Death Row",
+			"Label": "22 - Death Row",
 			"Url": "https://www.gamemaps.com/mirrors/download/2227/6"
 		},
 		{
-			"Label": "24 - Fort Noesis",
+			"Label": "23 - Fort Noesis",
 			"Url": "https://www.gamemaps.com/mirrors/download/2450/6"
 		},
 		{
-			"Label": "25 - New World Order",
+			"Label": "24 - New World Order",
 			"Url": "https://www.gamemaps.com/mirrors/download/2242/6"
+		},
+		{
+			"Label": "25 - Death Stop",
+			"Url": "https://www.gamemaps.com/mirrors/download/2171/6"
 		}
 	]
 }
