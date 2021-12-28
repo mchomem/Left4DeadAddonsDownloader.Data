@@ -61,10 +61,6 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/25016/6"
 		},
 		{
-			"Label": "16 - Dead Street",
-			"Url": "https://www.gamemaps.com/mirrors/download/19393/6"
-		},
-		{
 			"Label": "17 - Carnage",
 			"Url": "https://www.gamemaps.com/mirrors/download/2339/6"
 		},
@@ -99,6 +95,10 @@
 		{
 			"Label": "25 - Death Stop",
 			"Url": "https://www.gamemaps.com/mirrors/download/2171/6"
+		},
+		{
+			"Label": "Quedan 4X Morir",
+			"Url": "https://www.gamemaps.com/mirrors/download/2760/6"
 		}
 	]
 }
