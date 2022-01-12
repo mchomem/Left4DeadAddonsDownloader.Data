@@ -61,10 +61,6 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/25016/6"
 		},
 		{
-			"Label": "18 - Fallen",
-			"Url": "https://www.gamemaps.com/mirrors/download/2511/6"
-		},
-		{
 			"Label": "19 - Escape from Toronto",
 			"Url": "https://www.gamemaps.com/mirrors/download/2278/6"
 		},
@@ -99,6 +95,10 @@
 		{
 			"Label": "Dead Getaway",
 			"Url": "https://www.gamemaps.com/mirrors/download/2754/6"
+		},
+		{
+			"Label": "Cape Murder",
+			"Url": "https://www.gamemaps.com/mirrors/download/2251/6"
 		}
 	]
 }
