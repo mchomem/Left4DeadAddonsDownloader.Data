@@ -37,10 +37,6 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/12008/6"
 		},
 		{
-			"Label": "Blood Harvest Apocalypse",
-			"Url": "https://www.gamemaps.com/mirrors/download/4375/6"
-		},
-		{
 			"Label": "Blood Woods Apocalypse",
 			"Url": "https://www.gamemaps.com/mirrors/download/9314/6"
 		},
@@ -103,6 +99,10 @@
 		{
 			"Label": "Crossing Over",
 			"Url": "https://www.gamemaps.com/mirrors/download/2505/6"
+		},
+		{
+			"Label": "Attica Region",
+			"Url": "https://drive.google.com/u/0/uc?export=download&confirm=jGn9&id=1vP0ZExX4FVbVsZ_lbV8UIg6N0ezDw-Le"
 		}
 	]
 }
