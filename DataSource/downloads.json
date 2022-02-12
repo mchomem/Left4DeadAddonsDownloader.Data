@@ -29,6 +29,10 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/26922/6"
 		},
 		{
+			"Label": "No mercy Apocalypse",
+			"Url": "https://www.gamemaps.com/mirrors/download/15620/6"
+		},
+		{
 			"Label": "Crash Course Apocalypse",
 			"Url": "https://www.gamemaps.com/mirrors/download/8125/6"
 		},
@@ -61,18 +65,6 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/25016/6"
 		},
 		{
-			"Label": "The Arena of the Dead",
-			"Url": "https://www.gamemaps.com/mirrors/download/2214/6"
-		},
-		{
-			"Label": "Blood Orange",
-			"Url": "https://www.gamemaps.com/mirrors/download/2126/6"
-		},
-		{
-			"Label": "Death Row",
-			"Url": "https://www.gamemaps.com/mirrors/download/2227/6"
-		},
-		{
 			"Label": "Fort Noesis",
 			"Url": "https://www.gamemaps.com/mirrors/download/2450/6"
 		},
@@ -103,6 +95,10 @@
 		{
 			"Label": "Attica Region",
 			"Url": "https://www.gamemaps.com/mirrors/download/19686/6"
+		},
+		{
+			"Label": "Resident Evil 2 RPD",
+			"Url": "https://www.gamemaps.com/mirrors/download/2329/6"
 		}
 	]
 }
