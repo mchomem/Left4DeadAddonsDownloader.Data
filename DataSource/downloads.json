@@ -1,6 +1,10 @@
 {
 	"FilesToDownload": [
 		{
+			"Label": "HTeam Health Counter",
+			"Url": "https://www.gamemaps.com/mirrors/download/2937/6"
+		},
+		{
 			"Label": "HEM No Mercy 2.1",
 			"Url": "https://www.gamemaps.com/mirrors/download/7890/6"
 		},
@@ -65,10 +69,6 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/25016/6"
 		},
 		{
-			"Label": "Fort Noesis",
-			"Url": "https://www.gamemaps.com/mirrors/download/2450/6"
-		},
-		{
 			"Label": "New World Order",
 			"Url": "https://www.gamemaps.com/mirrors/download/2242/6"
 		},
@@ -103,6 +103,10 @@
 		{
 			"Label": "Resident Evil 2 RPD",
 			"Url": "https://www.gamemaps.com/mirrors/download/2329/6"
+		},
+		{
+			"Label": "Night Terror",
+			"Url": "https://www.gamemaps.com/mirrors/download/2198/6"
 		}
 	]
 }
