@@ -73,10 +73,6 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/25016/6"
 		},
 		{
-			"Label": "Death Stop",
-			"Url": "https://www.gamemaps.com/mirrors/download/2171/6"
-		},
-		{
 			"Label": "Quedan 4X Morir",
 			"Url": "https://www.gamemaps.com/mirrors/download/2760/6"
 		},
@@ -111,6 +107,10 @@
 		{
 			"Label": "Cold Stream",
 			"Url": "https://www.gamemaps.com/mirrors/download/25715/6"
+		},
+		{
+			"Label": "Sprawling Terror",
+			"Url": "https://www.gamemaps.com/mirrors/download/26727/6"
 		}
 	]
 }
