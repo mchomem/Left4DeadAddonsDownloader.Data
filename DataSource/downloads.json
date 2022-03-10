@@ -73,10 +73,6 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/25016/6"
 		},
 		{
-			"Label": "Quedan 4X Morir",
-			"Url": "https://www.gamemaps.com/mirrors/download/2760/6"
-		},
-		{
 			"Label": "Dead Getaway",
 			"Url": "https://www.gamemaps.com/mirrors/download/2754/6"
 		},
@@ -111,6 +107,10 @@
 		{
 			"Label": "Sprawling Terror",
 			"Url": "https://www.gamemaps.com/mirrors/download/26727/6"
+		},
+		{
+			"Label": "Witch Hunter",
+			"Url": "https://www.gamemaps.com/mirrors/download/2914/6"
 		}
 	]
 }
