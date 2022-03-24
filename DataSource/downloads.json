@@ -73,10 +73,6 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/25016/6"
 		},
 		{
-			"Label": "Cape Murder",
-			"Url": "https://www.gamemaps.com/mirrors/download/2251/6"
-		},
-		{
 			"Label": "Crossing Over",
 			"Url": "https://www.gamemaps.com/mirrors/download/2505/6"
 		},
@@ -111,6 +107,10 @@
 		{
 			"Label": "Death Aboard",
 			"Url": "https://www.gamemaps.com/mirrors/download/2114/6"
+		},
+		{
+			"Label": "Cold Fear",
+			"Url": "https://www.gamemaps.com/mirrors/download/2203/6"
 		}
 	]
 }
