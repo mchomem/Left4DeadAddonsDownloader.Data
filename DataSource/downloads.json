@@ -73,10 +73,6 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/25016/6"
 		},
 		{
-			"Label": "Die Trying",
-			"Url": "https://www.gamemaps.com/mirrors/download/2158/6"
-		},
-		{
 			"Label": "Attica Region",
 			"Url": "https://www.gamemaps.com/mirrors/download/19686/6"
 		},
@@ -111,6 +107,10 @@
 		{
 			"Label": "Fallen",
 			"Url": "https://www.gamemaps.com/mirrors/download/2511/6"
+		},
+		{
+			"Label": "City of the Dead",
+			"Url": "https://www.gamemaps.com/mirrors/download/17622/6"
 		}
 	]
 }
