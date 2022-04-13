@@ -2,7 +2,11 @@
 	"FilesToDownload": [
 		{
 			"Label": "HTeam Health Counter",
-			"Url": "https://www.gamemaps.com/mirrors/download/2937/6"
+			"Url": "https://www.gamemaps.com/mirrors/download/26217/6"
+		},
+		{
+			"Label": "Survivor Playground",
+			"Url": "https://www.gamemaps.com/mirrors/download/19686/6"
 		},
 		{
 			"Label": "HEM No Mercy 2.1",
@@ -73,10 +77,6 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/25016/6"
 		},
 		{
-			"Label": "Attica Region",
-			"Url": "https://www.gamemaps.com/mirrors/download/19686/6"
-		},
-		{
 			"Label": "Resident Evil 2 RPD",
 			"Url": "https://www.gamemaps.com/mirrors/download/2329/6"
 		},
@@ -111,6 +111,10 @@
 		{
 			"Label": "City of the Dead",
 			"Url": "https://www.gamemaps.com/mirrors/download/17622/6"
+		},
+		{
+			"Label": "Precinct 84",
+			"Url": "https://www.gamemaps.com/mirrors/download/2679/6"
 		}
 	]
 }
