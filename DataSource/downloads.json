@@ -77,10 +77,6 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/25016/6"
 		},
 		{
-			"Label": "Night Terror",
-			"Url": "https://www.gamemaps.com/mirrors/download/2198/6"
-		},
-		{
 			"Label": "Cold Stream",
 			"Url": "https://www.gamemaps.com/mirrors/download/25715/6"
 		},
@@ -115,6 +111,10 @@
 		{
 			"Label": "Road To Nowhere",
 			"Url": "https://www.gamemaps.com/mirrors/download/19543/6"
+		},
+		{
+			"Label": "Dark Blood",
+			"Url": "https://www.gamemaps.com/mirrors/download/2298/6"
 		}
 	]
 }
