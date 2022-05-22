@@ -77,10 +77,6 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/25016/6"
 		},
 		{
-			"Label": "Sprawling Terror",
-			"Url": "https://www.gamemaps.com/mirrors/download/26727/6"
-		},
-		{
 			"Label": "I Hate Mount4ins",
 			"Url": "https://www.gamemaps.com/mirrors/download/2595/6"
 		},
@@ -115,6 +111,10 @@
 		{
 			"Label": "We Don't Go To Ravenholm",
 			"Url": "https://www.gamemaps.com/mirrors/download/2341/6"
+		},
+		{
+			"Label": "Dead Echo",
+			"Url": "https://www.gamemaps.com/mirrors/download/2323/6"
 		}
 	]
 }
