@@ -73,10 +73,6 @@
 			"Url": "https://www.gamemaps.com/mirrors/download/4075/6"
 		},
 		{
-			"Label": "YAMA",
-			"Url": "https://www.gamemaps.com/mirrors/download/25016/6"
-		},
-		{
 			"Label": "I Hate Mount4ins",
 			"Url": "https://www.gamemaps.com/mirrors/download/2595/6"
 		},
@@ -115,6 +111,10 @@
 		{
 			"Label": "Dead Echo",
 			"Url": "https://www.gamemaps.com/mirrors/download/2323/6"
+		},
+		{
+			"Label": "Derailed",
+			"Url": "https://www.gamemaps.com/mirrors/download/2609/6"
 		}
 	]
 }
